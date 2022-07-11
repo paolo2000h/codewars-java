@@ -1,1 +1,1 @@
-Solutions to [codewars.com](codewars.com)
+## Solutions to [codewars.com](codewars.com)
