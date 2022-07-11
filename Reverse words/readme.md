@@ -1,11 +1,11 @@
-##Description:
+## Description:
 Complete the function that accepts a string parameter, and reverses each word in the string. All spaces in the string should be retained.
 ##Examples:
 ```java
 "This is an example!" ==> "sihT si na !elpmaxe"
 "double  spaces"      ==> "elbuod  secaps"
 ```
-##Solution:
+## Solution:
 ```java
 public class Kata
 {
