@@ -6,6 +6,7 @@ Complete the function that accepts a string parameter, and reverses each word in
 "double  spaces"      ==> "elbuod  secaps"
 ```
 ##Solution:
+```java
 public class Kata
 {
   public static String reverseWords(final String original)
@@ -24,3 +25,4 @@ public class Kata
     return reversed.substring(0,reversed.length()-1);
   }
 }
+```
