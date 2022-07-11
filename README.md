@@ -1,1 +1,1 @@
-# codewars-java
+Solutions to [codewars.com](codewars.com)
